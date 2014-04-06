@@ -1,5 +1,4 @@
-
-	4 Recommendation Engines
+	4 Recommendation Engines + 1 evaluation of recommenders
 	
 	1) Content Based Filtering (TF-IDF)
 	2) User - User Collabrative Filtering
