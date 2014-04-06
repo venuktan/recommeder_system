@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cbf-filter.iml" filepath="$PROJECT_DIR$/cbf-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eval-assignment/eval-assignment.iml" filepath="$PROJECT_DIR$/../eval-assignment/eval-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eval-demo/eval-demo.iml" filepath="$PROJECT_DIR$/../eval-demo/eval-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ii-assignment/ii-assignment.iml" filepath="$PROJECT_DIR$/../ii-assignment/ii-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lenskit-model-example/lenskit-model-example.iml" filepath="$PROJECT_DIR$/../lenskit-model-example/lenskit-model-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../svd/svd-assignment.iml" filepath="$PROJECT_DIR$/../svd/svd-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uu-assignment/uu-assignment.iml" filepath="$PROJECT_DIR$/../uu-assignment/uu-assignment.iml" />
+    </modules>
+  </component>
+</project>
+
