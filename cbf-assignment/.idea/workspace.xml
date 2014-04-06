@@ -6,254 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d732f8d-dfe8-4fdb-af2a-0439b0ec3c0d" name="Default" comment="small change in item scorer , &#10;modelBuilder working well , from command line.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.hg_archival.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.hgignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/BaselineMode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/CBFMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/CSVItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/main/java/org/grouplens/lenskit/demo/ExtendedItemUserMeanScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/main/java/org/grouplens/mooc/demo/ExtendedItemUserMeanScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/IIMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/main/java/org/grouplens/lenskit/demo/ItemMeanModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/main/java/org/grouplens/mooc/demo/ItemMeanModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/main/java/org/grouplens/lenskit/demo/ItemMeanModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/main/java/org/grouplens/mooc/demo/ItemMeanModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/ItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/ItemTitleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/LatentFeatureCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/cbf/LuceneItemItemModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/cbf/LuceneModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/MOOCItemDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/MOOCRatingDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/MOOCUserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_unimi_dsi_fastutil_6_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__it_unimi_dsi_fastutil_6_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__it_unimi_dsi_fastutil_6_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_grapht_grapht_0_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_grouplens_grapht_grapht_0_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_grouplens_grapht_grapht_0_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_api_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_core_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_data_structures_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_eval_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_eval_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_eval_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_groovy_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_groovy_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_groovy_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_grouplens_lenskit_lenskit_knn_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MovieRecommender.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/PopularityItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/QueryDAOProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/RatingFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/SVDItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/SVDMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/SVDModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/SVDModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleGlobalItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/SimpleUserUserItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFModelBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/TagEntropyMetric.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/TagFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/TagFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/TagFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/TagFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/TagVocabulary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/test/java/org/grouplens/lenskit/demo/TestMeanScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/test/java/org/grouplens/mooc/demo/TestMeanScorer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/TitleFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/UserFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/UserFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/UserFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/UserFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/UserFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/dao/UserNameDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cbf-filter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/eval/chart.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/eval/chart.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/eval-assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/eval-demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/analysis/analysis1/eval-results.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/analysis/analysis1/eval-user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/src/eval/eval.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/eval/eval.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/eval/eval.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/eval/eval.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/eval/eval.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/ii-assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/lenskit-model-example.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/lenskit-model-example.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/src/main/main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/movie-tags.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/data/movie-tags.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/data/movie-tags.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/data/movie-tags.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/movie-titles.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/data/movie-titles.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/data/movie-titles.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/data/movie-titles.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/data/movie-titles.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/main/latex/paper/paper.bib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/src/main/latex/paper/paper.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/ratings.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/data/ratings.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/data/ratings.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/data/ratings.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/data/ratings.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/svd-assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/src/test/test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../eval-assignment/data/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ii-assignment/data/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../svd/data/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/data/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/uu-assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lenskit-model-example/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../uu-assignment/.idea/workspace.xml" />
+    <list default="true" id="1d732f8d-dfe8-4fdb-af2a-0439b0ec3c0d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java" afterPath="$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4dbcf049-7c55-421d-922a-2a5229384cf6" name="New changelist" comment="" />
     <list id="94623768-408c-4103-b00e-0174149d6649" name="pending" comment="" />
@@ -333,28 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TFIDFItemScorer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TFIDFItemScorer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="71" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UUMain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="91" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1599" max-vertical-offset="2355">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IIMain.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/IIMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="40" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.37698412" vertical-offset="0" max-vertical-offset="2460">
+            <state line="70" column="0" selection-start="2942" selection-end="2942" vertical-scroll-proportion="0.64285713" vertical-offset="399" max-vertical-offset="1155">
               <folding />
             </state>
           </provider>
@@ -374,7 +111,7 @@
       </list>
     </option>
     <option name="SYNC_SETTING" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ii-assignment" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitLogSettings">
     <option name="myStructureFilterPaths" />
@@ -547,6 +284,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -870,12 +608,12 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.CBFMain" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UUMain" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IIMain" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SVDMain" />
-      <item index="4" class="java.lang.String" itemvalue="Groovy.eval (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Groovy.eval" />
-      <item index="6" class="java.lang.String" itemvalue="Maven.lenskit-analyze" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.eval (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.lenskit-analyze" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UUMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IIMain" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SVDMain" />
+      <item index="6" class="java.lang.String" itemvalue="Groovy.eval" />
     </list>
     <recent_temporary>
       <list size="4">
@@ -1062,7 +800,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32087913" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1075,14 +813,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32015306" sideWeight="0.5443491" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286445" sideWeight="0.67045456" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32785088" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3010204" sideWeight="0.58177906" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.104166664" sideWeight="0.6775568" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283046" sideWeight="0.52122015" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3591954" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27110156" sideWeight="0.6657825" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27110156" sideWeight="0.6657825" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.5114796" sideWeight="0.4549356" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
@@ -1090,6 +827,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3010204" sideWeight="0.58177906" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Amazon EC2" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.53977275" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1179,6 +917,62 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/CBFMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="71" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="91" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/IIMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="33" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/CBFMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="71" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="91" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/IIMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="40" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/CBFMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="13" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
@@ -1294,9 +1088,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../svd/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../svd/src/main/java/edu/umn/cs/recsys/svd/SVDItemScorer.java">
@@ -1323,9 +1115,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.17857143" vertical-offset="0" max-vertical-offset="756">
-          <folding />
-        </state>
+        <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.17857143" vertical-offset="0" max-vertical-offset="756" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFModelBuilder.java">
@@ -1335,16 +1125,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemScorer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="63" selection-start="1055" selection-end="1055" vertical-scroll-proportion="-0.34920636" vertical-offset="459" max-vertical-offset="1215">
-          <folding />
-        </state>
+        <state line="27" column="63" selection-start="1055" selection-end="1055" vertical-scroll-proportion="-0.34920636" vertical-offset="459" max-vertical-offset="1215" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/SimpleGlobalItemScorer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="23" selection-start="730" selection-end="730" vertical-scroll-proportion="0.1984127" vertical-offset="75" max-vertical-offset="930">
-          <folding />
-        </state>
+        <state line="24" column="23" selection-start="730" selection-end="730" vertical-scroll-proportion="0.1984127" vertical-offset="75" max-vertical-offset="930" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/CBFMain.java">
@@ -1354,27 +1140,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="71" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="91" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1599" max-vertical-offset="2355">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../lenskit-model-example/src/test/java/org/grouplens/mooc/demo/TestMeanScorer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="1132" selection-end="1132" vertical-scroll-proportion="-0.92460316" vertical-offset="1149" max-vertical-offset="1905">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="30" column="13" selection-start="1132" selection-end="1132" vertical-scroll-proportion="-0.92460316" vertical-offset="1149" max-vertical-offset="1905" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../eval-assignment/src/main/java/edu/umn/cs/recsys/TagVocabulary.java">
@@ -1386,7 +1154,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ii-assignment/src/main/java/edu/umn/cs/recsys/ii/IIMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="40" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.37698412" vertical-offset="0" max-vertical-offset="2460">
+        <state line="77" column="42" selection-start="2850" selection-end="2850" vertical-scroll-proportion="-1.1428572" vertical-offset="1704" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../uu-assignment/src/main/java/edu/umn/cs/recsys/uu/UUMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="91" selection-start="2703" selection-end="2703" vertical-scroll-proportion="-0.5873016" vertical-offset="1599" max-vertical-offset="2355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="2942" selection-end="2942" vertical-scroll-proportion="0.64285713" vertical-offset="399" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>

@@ -68,8 +68,6 @@ public class TFIDFItemScorer extends AbstractItemScorer {
     }
 
     private SparseVector makeUserVector(long user) {
-        // Create a new vector over tags to accumulate the user profile
-        MutableSparseVector profile = model.newTagVector();
 
 //        TODO Get the item's vector and add it to the user's profile
 
